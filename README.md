@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ademola-byte
 - 👀 I’m interested in solving Africa's problem through technology
-- 🌱 I’m currently learning javascript
+- 🌱 I'm an Angular js developer
 - 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me 380639679415 (whatsapp)
 - 😄 Pronouns: He/Him
